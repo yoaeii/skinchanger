@@ -16,4 +16,3 @@ pcall(function()
     con = plr.CharacterAdded:Connect(setSkin)
 end)
 
--- ashuni autista 😂
